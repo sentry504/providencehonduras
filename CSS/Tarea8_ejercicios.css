@@ -1,0 +1,17 @@
+.boton{
+    border-radius: 5px;
+    border-color: #00aeff9a;
+    background-color: #00b0ff;
+    color:white;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Arial, Helvetica, sans-serif, 'Trebuchet MS', sans-serif;
+    padding: 4px;
+    margin: 2%;
+}
+
+.botton:hover{
+    border-width: 1px;
+    background-color:bisque;
+    color:aqua;
+}
